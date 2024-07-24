@@ -743,3 +743,4 @@ repositories:
 - intel-sandbox/fake
 - intel-innersource/fake
 - intel-innersource/my-test-repo
+- intel-innersource/faker
