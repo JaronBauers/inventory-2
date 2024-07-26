@@ -110,7 +110,7 @@ repositories:
 - intel-innersource/applications.services.1source.affinity.prodigy.ui
 - intel-innersource/applications.services.1source.affinity.sinker.api
 - intel-innersource/applications.services.1source.affinity.ui
-- intel-innersource/applications.services.unison.wcs-mde-be
+- intel-innersource/applications.services.unison.wcs-mde-bedasdasd
 - intel-innersource/containers.docker.automation.cloud-foundry-cli
 - intel-innersource/containers.docker.automation.intel-trust-chain
 - intel-innersource/containers.docker.automation.kaniko
